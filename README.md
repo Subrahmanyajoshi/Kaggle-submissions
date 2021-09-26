@@ -1,2 +1,2 @@
 # Kaggle-submissions
-This repository contains problems and their solutions i submitted in kaggle
+This repository contains some problems and their solutions i submitted to kaggle competitions/tasks.
